@@ -8,6 +8,6 @@
 
 ## Notes:
 
-If you want to repeat a particular random input, you can specify the seed of that run with command line argument "-s <num>".
+If you want to repeat a particular random input, you can specify the seed of that run with command line argument "-s NUMBER".
 
 If you give "-l" argument, very long test is also run with 1MB input size.
